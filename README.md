@@ -28,6 +28,6 @@ The objective of this lab is to learn how to configure, view, and analyze Window
 - C:\Windows\System32\winevt\Logs to view the system logs:
 <p align="center"><img src="https://i.imgur.com/pwVpKyD.png" height="50%" width="80%" alt="Disk Sanitization Steps"/><br />
 
-We can double-click on any log to view a detailed information about the captured event.br />
+We can double-click on any log to view a detailed information about the captured event.<br />
 
 This concludes the demonstration showing how to configure, view and analyze Windows event logs.
