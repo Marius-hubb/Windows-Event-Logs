@@ -1,8 +1,8 @@
-<h1>Configure, View, and Analyze Windows Event Logs</h1>
+<h1>Viewing and Analisys of Windows Event Logs</h1>
 
 <h2>Description</h2>
 
-The objective of this lab is to learn how to configure, view, and analyze Windows security logs.
+In this lab I will be viewing and analysing Windows security logs.
 <h2>Lab walk-through:</h2>
 
 #### Enable Audit policy
