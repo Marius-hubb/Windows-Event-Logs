@@ -1,4 +1,4 @@
-<h1>Viewing and Analisys of Windows Event Logs</h1>
+<h1>Viewing and Analysis of Windows Event Logs</h1>
 
 <h2>Description</h2>
 
